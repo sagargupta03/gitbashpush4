@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-666666666666666666666666
-=======
-new file in master
->>>>>>> master
-4444444444444444444
-
 this is last line changed in testing branch abc.txt
+this is last line changed in master branch abc.txt
+we need both
